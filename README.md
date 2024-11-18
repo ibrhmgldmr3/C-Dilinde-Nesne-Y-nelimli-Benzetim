@@ -1,2 +1,2 @@
-# PDP-C_Odevi
-programlama dillerinin prensiplerinde C dilinde yapılması beklenen ödev
+# C dilinde nesne yönelimli benzetim
+C dilinde struct yapıları ile nesne yönetimli benzetim yapılarak işlemler yapma
