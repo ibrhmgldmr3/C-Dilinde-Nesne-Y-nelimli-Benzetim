@@ -1,4 +1,4 @@
-# C Dilinde Nesne Yönelimli Benzetim (2024‑2025 Bahar Dönemi)
+# C Dilinde Nesne Yönelimli Benzetim (2023‑2024 Bahar Dönemi)
 
 > Sakarya Üniversitesi Bilgisayar Mühendisliği – **Sistem Programlama / Gömülü** proje çalışması  
 > **Geliştirici:** İbrahim Güldemir  
